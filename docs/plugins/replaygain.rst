@@ -81,9 +81,9 @@ bs1770gain
 In order to use this backend, you will need to install the bs1770gain command-line tool. Here are some hints:
 
 * goto `bs1770gain`_ and follow the download instructions
-* make sure it is in your $PATH 
+* make sure it is in your $PATH
 
-.. _bs1770gain:http://bs1770gain.sourceforge.net
+.. _bs1770gain: http://bs1770gain.sourceforge.net
 
 Then, enable the plugin (see :ref:`using-plugins`) and specify the
 backend in your configuration file::
